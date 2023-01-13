@@ -11,3 +11,12 @@
 .stack h3 + * {
     --stack-space: 2em;
 }
+
+.stack p {
+    line-height: 1.8;
+}
+
+.stack ul {
+    padding: revert;
+    list-style: revert;
+}
