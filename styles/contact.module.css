@@ -1,5 +1,5 @@
 .stack > * + * {
-    margin-top: var(--stack-space,lem);
+    margin-top: var(--stack-space, lem);
 }
 
 .heading {
