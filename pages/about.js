@@ -21,7 +21,7 @@ export default function About(){
                 </p>
             </PostBody>
             
-            <Contanct />
+            <Contact />
         </Container>
     )
 }
